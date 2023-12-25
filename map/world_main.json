@@ -1047,7 +1047,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hall_main.tmj"
+                         "value":"hall_main.json"
                         }],
                  "rotation":0,
                  "type":"area",
