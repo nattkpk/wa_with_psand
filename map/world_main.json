@@ -531,7 +531,7 @@
                  "y":0
                 }],
          "name":"floor",
-         "opacity":0.33,
+         "opacity":1,
          "type":"group",
          "visible":true,
          "x":0,

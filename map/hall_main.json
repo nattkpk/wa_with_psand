@@ -24,7 +24,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -232,7 +232,7 @@
                  "y":0
                 }],
          "name":"walls",
-         "opacity":0.37,
+         "opacity":1,
          "type":"group",
          "visible":true,
          "x":0,
@@ -567,15 +567,15 @@
          "tilecount":12,
          "tileheight":32,
          "tiles":[
-              {
-               "id":2,
-               "properties":[
-                      {
-                       "name":"collides",
-                       "type":"bool",
-                       "value":true
-                      }]
-              }],
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff40ff"
         }, 
