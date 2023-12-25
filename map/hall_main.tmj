@@ -370,7 +370,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world_main.json"
+                         "value":"world_main.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -387,7 +387,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world_main.json"
+                         "value":"world_main.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
